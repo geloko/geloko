@@ -1,4 +1,5 @@
-### Full Stack Developer (Frontend Heavy)
+### Hello I'm @geloko
+Full Stack Developer (Frontend Heavy)
 
 📝 Projects in 2022 were done under a company github account, won't appear here.
 
