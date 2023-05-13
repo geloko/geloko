@@ -1,4 +1,6 @@
-### Hi there 👋
+### Full Stack Developer (Frontend Heavy)
+
+Projects in 2022 were done under a company github account, won't appear here.
 
 <!--
 **geloko/geloko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
